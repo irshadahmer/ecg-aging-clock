@@ -1,0 +1,11 @@
+model,condition,odds_ratio,ci_95,p_value
+12-Lead,Myocardial Infarction (MI),1.71,1.37-2.12,1.614e-06
+12-Lead,Conduction Disturbance (CD),1.48,1.19-1.84,0.0004011
+12-Lead,Hypertrophy (HYP),1.18,0.89-1.56,0.2483
+12-Lead,ST/T Changes (STTC),1.89,1.52-2.34,1.064e-08
+12-Lead,Normal ECG (NORM),0.49,0.40-0.61,3.874e-11
+Lead-I,Myocardial Infarction (MI),1.53,1.24-1.88,8.732e-05
+Lead-I,Conduction Disturbance (CD),1.39,1.12-1.71,0.002605
+Lead-I,Hypertrophy (HYP),1.83,1.40-2.39,1.076e-05
+Lead-I,ST/T Changes (STTC),3.52,2.82-4.38,6.156e-29
+Lead-I,Normal ECG (NORM),0.28,0.23-0.35,4.032e-30
